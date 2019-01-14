@@ -1,0 +1,33 @@
+html, body {
+    margin: 10;
+    padding: 10;
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+  }
+
+  p {
+    font-family: Arial;
+  }
+
+  h1 {
+    color: darkblue;
+  }
+
+  .car_1{
+      color: royalblue;
+  }
+
+  .car_2{
+      color: tomato;
+  }
+
+  #car_3{
+      color: green;
+  }
+
+  p { 
+    background-color: red;
+  }
